@@ -11,12 +11,57 @@ describe(`tags2dlx`, function() {
     text = await readFile(path.join(__dirname, `./test.txt`), `utf8`);
   });
 
-  it(`returns a valid DLx Text object`, function() {
+  describe(`options`, function() {
 
-    const output = convert(text);
+    describe(`metadata`, function() {
 
-    expect(typeof output.title).toBe(`object`);
-    expect(Array.isArray(output.utterances)).toBe(true);
+      it(`copies metadata to the Text`, function() {
+
+        const hello = `world`;
+        const title = `How the world began`;
+
+        const options = {
+          metadata: {
+            hello,
+            title,
+          },
+        };
+
+        const output = convert(text, options);
+
+        expect(output.hello).toBe(hello);
+        expect(output.title).toBe(title);
+
+      });
+
+      it(`does not overwrite the utterances property`, function() {
+
+        const options = {
+          metadata: {
+            utterances: [{}, {}, {}],
+          },
+        };
+
+        const output = convert(text, options);
+
+        expect(output.utterances.length).toBe(0);
+
+      });
+
+    });
+
+  });
+
+  describe(`result`, function() {
+
+    it(`is a valid DLx Text object`, function() {
+
+      const output = convert(text);
+
+      expect(typeof output.title).toBe(`object`);
+      expect(Array.isArray(output.utterances)).toBe(true);
+
+    });
 
   });
 
