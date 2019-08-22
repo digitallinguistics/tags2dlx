@@ -34,8 +34,6 @@
     "test": "node --experimental-modules --no-warnings test/index.js"
   },
   "devDependencies": {
-    "@digitallinguistics/spec": "^0.29.0",
-    "ajv": "^6.10.2",
     "babel-eslint": "^10.0.2",
     "jasmine": "^3.4.0"
   },

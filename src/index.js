@@ -1,14 +1,7 @@
 function tags2dlx() {
   return {
-    title:      ``,
-    utterances: [
-      {
-        transcription: {
-          en: ``,
-        },
-        translation: {},
-      },
-    ],
+    title:      {},
+    utterances: [],
   };
 }
 

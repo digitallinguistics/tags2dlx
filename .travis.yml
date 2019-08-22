@@ -1,5 +1,3 @@
-before_script:
-  - npm install @digitallinguistics/spec yamljs
 language: node_js
 node_js:  node
 notifications:
