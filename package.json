@@ -29,7 +29,14 @@
     "access": "public"
   },
   "type": "module",
+  "scripts": {
+    "start": "npm run test",
+    "test": "node --experimental-modules --no-warnings test/index.js"
+  },
   "devDependencies": {
     "jasmine": "^3.4.0"
+  },
+  "dependencies": {
+    "eslint": "^6.2.1"
   }
 }
