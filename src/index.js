@@ -1,5 +1,8 @@
 function tags2dlx() {
-  return {};
+  return {
+    title:      {},
+    utterances: [],
+  };
 }
 
 export default tags2dlx;
