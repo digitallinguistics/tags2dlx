@@ -28,5 +28,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
 }
