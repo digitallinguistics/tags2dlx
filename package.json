@@ -28,5 +28,16 @@
   "publishConfig": {
     "access": "public"
   },
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "start": "npm run test",
+    "test": "node --experimental-modules --no-warnings test/index.js"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "jasmine": "^3.4.0"
+  },
+  "dependencies": {
+    "eslint": "^6.2.1"
+  }
 }
