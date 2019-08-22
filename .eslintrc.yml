@@ -1,11 +1,13 @@
 # ESLint v6.0.1
+parser: babel-eslint
 parserOptions:
+  allowImportExportEverywhere: true
   ecmaVersion: 10
   ecmaFeatures:
     impliedStrict: true
   sourceType: module
 env:
-  browser: true
+  browser: false
   es6:     true
   jasmine: false
   node:    true
