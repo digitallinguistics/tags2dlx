@@ -63,6 +63,17 @@ describe(`tags2dlx`, function() {
 
     });
 
+    it(`tokenizes utterances correctly`, function() {
+
+      const input = `This_DEM is_COP a_DET sentence_N ._. Is_COP this_DEM a_DET question_N ?_?`;
+
+      const { utterances } = convert(input);
+
+      expect(utterances.length).toBe(2);
+      expect(utterances[0].words[3].transcription).toBe(`sentence`);
+
+    });
+
   });
 
 });
