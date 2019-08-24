@@ -18,7 +18,7 @@ For example, here is an example sentence from the [Open American National Corpus
 All_DT hotels_NNS accept_VBP major_JJ credit_NN cards_NNS ._.
 ```
 
-Each word in this sentence has been tagged for part of speech by adding an underscore at the end of the word, followed by an abbreviation indicating the part of speech. For example, the word _hotels_ has been tagged as a plural noun using the abbreviation `NNS`.
+Each word in this sentence has been tagged for part of speech by adding an underscore at the end of the word, followed by an abbreviation indicating the part of speech. For example, the word _hotels_ has been tagged as a plural noun using the abbreviation `NNS`. Punctuation is typically tagged as well (`._.` in the above example).
 
 Using this library, you can convert tagged texts like this to JSON format, like so:
 
@@ -61,7 +61,7 @@ Usage in Node.js (latest stable release):
 ```js
 import convert from '@digitallinguistics/tags2dlx';
 
-const text = `This_DEM is_V a_DET sentence_N.`;
+const text = `This_DEM is_V a_DET sentence_N ._.`;
 
 // The output is a plain-old JavaScript object (POJO), formatted as a DLx Text object
 const output = convert(text);
