@@ -6,6 +6,8 @@ describe(`tags2dlx`, function() {
   let convert;
   let text;
 
+  const tinyText = `This_DEM is_COP a_DET sentence_N ._. Is_COP this_DEM a_DET question_N ?_?`;
+
   beforeAll(async function() {
     ({ default: convert } = await import(`../src/index.js`));
     text = await readFile(path.join(__dirname, `./test.txt`), `utf8`);
@@ -42,11 +44,44 @@ describe(`tags2dlx`, function() {
           },
         };
 
-        const output = convert(text, options);
+        const output = convert(tinyText, options);
 
-        expect(output.utterances.length).toBe(0);
+        expect(output.utterances.length).toBe(2);
 
       });
+
+    });
+
+    it(`punctuation`, function() {
+
+      const input       = `word_N -_- word_N`;
+      const punctuation = `-`;
+
+      const { utterances: [{ words }] } = convert(input, { punctuation });
+
+      expect(words.length).toBe(2);
+
+    });
+
+    it(`tag separator`, function() {
+
+      const input        = `home^N`;
+      const tagSeparator = `^`;
+
+      const { utterances: [{ words: [{ token }] }] } = convert(input, { tagSeparator });
+
+      expect(token).toBe(`home`);
+
+    });
+
+    it(`utterance separators`, function() {
+
+      const input               = `sentence_N ._. sentence_N ?_? sentence_N !_!`;
+      const utteranceSeparators = `.!?`;
+
+      const { utterances } = convert(input, { utteranceSeparators });
+
+      expect(utterances.length).toBe(3);
 
     });
 
@@ -63,13 +98,19 @@ describe(`tags2dlx`, function() {
 
     });
 
-    fit(`tokenizes utterances correctly`, function() {
+    it(`tokenizes text into utterances`, function() {
 
-      const input = `This_DEM is_COP a_DET sentence_N ._. Is_COP this_DEM a_DET question_N ?_?`;
-
-      const { utterances } = convert(input);
+      const { utterances } = convert(tinyText);
 
       expect(utterances.length).toBe(2);
+
+    });
+
+    it(`tokenizes utterances into words`, function() {
+
+      const { utterances: [{ words }] } = convert(tinyText);
+
+      expect(words.length).toBe(4); // eslint-disable-line no-magic-numbers
 
     });
 
