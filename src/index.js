@@ -66,8 +66,10 @@ export default function tags2dlx(
   .split(whiteSpaceRegExp)
   .map(parseTaggedWord);
 
+  // NB: To keep this code readable, don't chain this off the words array
   const utterances = words.reduce((arr, word) => {
 
+    // if current word token is an utterance separator, start a new utterance
     if (utteranceSeparators.includes(word.token)) {
 
       arr.push({ words: [] });
@@ -78,6 +80,7 @@ export default function tags2dlx(
 
       return arr;
 
+    // add current word token to current utterance
     } else {
 
       const lastUtterance = arr[arr.length - 1];
