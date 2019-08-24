@@ -62,16 +62,21 @@ export default function tags2dlx(
 
   const parseTaggedWord = createWordParser(tagSeparator);
 
-  const taggedWords = text.split(whiteSpaceRegExp);
-  const parsedWords = taggedWords.map(parseTaggedWord);
+  const words = text
+  .split(whiteSpaceRegExp)
+  .map(parseTaggedWord);
 
-  const rawUtterances = parsedWords.reduce((arr, word) => {
-
-    if (punctuation.includes(word.token)) return arr;
+  const utterances = words.reduce((arr, word) => {
 
     if (utteranceSeparators.includes(word.token)) {
 
       arr.push({ words: [] });
+
+    // filter out punctuation words *after* tokenizing text into utterances
+    // in case the same character is included in both punctuation and utterance separators
+    } else if (punctuation.includes(word.token)) {
+
+      return arr;
 
     } else {
 
@@ -82,14 +87,13 @@ export default function tags2dlx(
 
     return arr;
 
-  }, [{ words: [] }]);
+  }, [{ words: [] }])
+  .filter(u => u.words.length);
 
-  const nonEmptyUtterances = rawUtterances.filter(u => u.words.length);
-
-  const json = { ...defaultText, ...Object(metadata) };
-
-  json.utterances = nonEmptyUtterances;
-
-  return json;
+  return {
+    ...defaultText,
+    ...Object(metadata),
+    utterances,
+  };
 
 }
