@@ -21,17 +21,26 @@ const whiteSpaceRegExp = /\s+/gu;
 /**
  * Creates a function to parse a tagged word into the word token and its tag.
  * @param  {String}   tagSeparator The tag separator to split on (sits between the word token and its tag)
+ * @param  {String}   tagName      The property name to use for the tag in the tags object
  * @return {Function}              Returns the parseTaggedWord function
  */
-function createWordParser(tagSeparator) {
+function createWordParser(tagSeparator, tagName) {
   /**
    * Parses a tagged word into the word token and its tag
    * @param  {String} taggedWord The tagged word to parse
    * @return {Object}            Returns an object with "tag" and "token" properties
    */
   return taggedWord => {
-    const [token, tag] = taggedWord.split(tagSeparator);
-    return { tag, token };
+
+    const [transcription, tag] = taggedWord.split(tagSeparator);
+
+    return {
+      tags: {
+        ...tagName ? { [tagName]: tag } : { [tag]: true },
+      },
+      transcription,
+    };
+
   };
 }
 
@@ -52,6 +61,7 @@ export default function tags2dlx(
   {
     metadata            = {},
     punctuation         = `,`,
+    tagName             = null,
     tagSeparator        = `_`,
     utteranceSeparators = `.!?"'`,
   } = {},
@@ -60,23 +70,24 @@ export default function tags2dlx(
   punctuation         = [...punctuation];         // eslint-disable-line no-param-reassign
   utteranceSeparators = [...utteranceSeparators]; // eslint-disable-line no-param-reassign
 
-  const parseTaggedWord = createWordParser(tagSeparator);
+  const parseTaggedWord = createWordParser(tagSeparator, tagName);
 
   const words = text
   .split(whiteSpaceRegExp)
+  .filter(Boolean)
   .map(parseTaggedWord);
 
   // NB: To keep this code readable, don't chain this off the words array
   const utterances = words.reduce((arr, word) => {
 
     // if current word token is an utterance separator, start a new utterance
-    if (utteranceSeparators.includes(word.token)) {
+    if (utteranceSeparators.includes(word.transcription)) {
 
       arr.push({ words: [] });
 
     // filter out punctuation words *after* tokenizing text into utterances
     // in case the same character is included in both punctuation and utterance separators
-    } else if (punctuation.includes(word.token)) {
+    } else if (punctuation.includes(word.transcription)) {
 
       return arr;
 

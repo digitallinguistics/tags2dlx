@@ -63,14 +63,24 @@ describe(`tags2dlx`, function() {
 
     });
 
+    it(`tag name`, function() {
+
+      const tagName = `pos`;
+
+      const { utterances: [{ words: [{ tags }] }] } = convert(text, { tagName });
+
+      expect(typeof tags.pos).toBe(`string`);
+
+    });
+
     it(`tag separator`, function() {
 
       const input        = `home^N`;
       const tagSeparator = `^`;
 
-      const { utterances: [{ words: [{ token }] }] } = convert(input, { tagSeparator });
+      const { utterances: [{ words: [{ transcription }] }] } = convert(input, { tagSeparator });
 
-      expect(token).toBe(`home`);
+      expect(transcription).toBe(`home`);
 
     });
 
@@ -111,6 +121,16 @@ describe(`tags2dlx`, function() {
       const { utterances: [{ words }] } = convert(tinyText);
 
       expect(words.length).toBe(4); // eslint-disable-line no-magic-numbers
+
+    });
+
+    it(`applies tags to words`, function() {
+
+      const input = `home_N`;
+
+      const { utterances: [{ words: [{ tags }] }] } = convert(input);
+
+      expect(tags.N).toBe(true);
 
     });
 
