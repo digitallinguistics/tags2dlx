@@ -46,7 +46,7 @@ Using this library, you can convert tagged texts like this to JSON format, like 
 }
 ```
 
-<!-- The format of the resulting JSON can be adjusted by passing options to the `tags2dlx` converter. See the [Options section](#options) below. -->
+The format of the resulting JSON can be adjusted by passing options to the `tags2dlx` converter. See the [Options section](#options) below.
 
 ## Installation & Basic Usage
 
@@ -64,10 +64,22 @@ import convert from '@digitallinguistics/tags2dlx';
 const text = `This_DEM is_V a_DET sentence_N ._.`;
 
 // The output is a plain-old JavaScript object (POJO), formatted as a DLx Text object
-const output = convert(text);
+const output = convert(text, options);
 
 // Do something with the output, like write it to text.json
 ```
+
+## Options
+
+The `tags2dlx` function accepts an options hash as the second argument. The options hash accepts the following options:
+
+Option              | Default | Description
+------------------- | ------- | -----------
+metadata            | `{}`    | An object containing additional metadata to add to the Text, such as title, etc. This metadata should adhere to the [DLx Text format][Text].
+punctuation         | `,`     | Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
+tagName             | `null`  | The name of the property to store the tag in
+tagSeparator        | `_`     | The character(s) delimiting the word token from its tag
+utteranceSeparators | `.!?"'` | A string containing all the characters to treat as utterance separators
 
 ## Contributing
 
@@ -88,4 +100,5 @@ This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][prof
 [OANC]:     http://www.anc.org/
 [profile]:  https://github.com/dwhieb
 [releases]: https://github.com/digitallinguistics/tags2dlx/releases
+[Text]:     https://format.digitallinguistics.io/schemas/Text
 [Travis]:   https://travis-ci.com/digitallinguistics/tags2dlx/branches
