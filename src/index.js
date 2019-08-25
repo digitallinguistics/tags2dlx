@@ -52,8 +52,9 @@ function createWordParser(tagSeparator, tagName) {
  * @param  {Object} [options]                             An options object
  * @param  {Object} [options.metadata={}]                 An object containing additional metadata to add to the Text, such as title, etc.
  * @param  {String} [options.punctuation=`,`]             Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
+ * @param  {String} [options.tagName=null]                The name of the property to store the tag in
  * @param  {String} [options.tagSeparator=`_`]            The character(s) delimiting the word token from its tag
- * @param  {String} [options.utteranceSeparators=`.!?"'`] A string containing all the characters to treat as utterance separators.
+ * @param  {String} [options.utteranceSeparators=`.!?"'`] A string containing all the characters to treat as utterance separators
  * @return {Object}                                       Returns a DLx Text object
  */
 export default function tags2dlx(
