@@ -4,6 +4,7 @@
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/digitallinguistics/tags2dlx?sort=semver)][releases]
 [![Travis (.com) branch](https://img.shields.io/travis/com/digitallinguistics/tags2dlx/master)][Travis]
 [![GitHub](https://img.shields.io/github/license/digitallinguistics/tags2dlx)][license]
+[![DOI](https://zenodo.org/badge/203644170.svg)][Zenodo]
 [![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/tags2dlx?style=social)][GitHub]
 
 _Have a question or need to report an issue? [Open an issue here.][issues]_
@@ -46,7 +47,7 @@ Using this library, you can convert tagged texts like this to JSON format, like 
 }
 ```
 
-<!-- The format of the resulting JSON can be adjusted by passing options to the `tags2dlx` converter. See the [Options section](#options) below. -->
+The format of the resulting JSON can be adjusted by passing options to the `tags2dlx` converter. See the [Options section](#options) below.
 
 ## Installation & Basic Usage
 
@@ -64,10 +65,22 @@ import convert from '@digitallinguistics/tags2dlx';
 const text = `This_DEM is_V a_DET sentence_N ._.`;
 
 // The output is a plain-old JavaScript object (POJO), formatted as a DLx Text object
-const output = convert(text);
+const output = convert(text, options);
 
 // Do something with the output, like write it to text.json
 ```
+
+## Options
+
+The `tags2dlx` function accepts an options hash as the second argument. The options hash accepts the following options:
+
+Option              | Default | Description
+------------------- | ------- | -----------
+metadata            | `{}`    | An object containing additional metadata to add to the Text, such as title, etc. This metadata should adhere to the [DLx Text format][Text].
+punctuation         | `,`     | Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
+tagName             | `null`  | The name of the property to store the tag in
+tagSeparator        | `_`     | The character(s) delimiting the word token from its tag
+utteranceSeparators | `.!?"'` | A string containing all the characters to treat as utterance separators
 
 ## Contributing
 
@@ -77,7 +90,11 @@ Tests are run using [Jasmine][Jasmine]. They can be run from the command line wi
 
 <hr>
 
-This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][profile]) and made available under an [MIT license][license].
+This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][profile]) and made available under an [MIT license][license]. Please cite this library using the following model:
+
+```
+Hieber, Daniel W. 2019. digitallinguistics/tags2dlx. https://doi.org/10.5281/zenodo.3376957
+```
 
 [Daffodil]: https://format.digitallinguistics.io
 [GitHub]:   https://github.com/digitallinguistics/tags2dlx
@@ -88,4 +105,6 @@ This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][prof
 [OANC]:     http://www.anc.org/
 [profile]:  https://github.com/dwhieb
 [releases]: https://github.com/digitallinguistics/tags2dlx/releases
+[Text]:     https://format.digitallinguistics.io/schemas/Text
 [Travis]:   https://travis-ci.com/digitallinguistics/tags2dlx/branches
+[Zenodo]:   https://zenodo.org/badge/latestdoi/203644170
