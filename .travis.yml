@@ -1,4 +1,10 @@
-language: node_js
-node_js:  node
+deploy:
+  api_key:  $NPM_KEY
+  email:    dwhieb@gmail.com
+  on:
+    tags:   true
+  provider: npm
+language:   node_js
+node_js:    node
 notifications:
-  email: false
+  email:    false
