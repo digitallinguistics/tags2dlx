@@ -4,6 +4,7 @@
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/digitallinguistics/tags2dlx?sort=semver)][releases]
 [![Travis (.com) branch](https://img.shields.io/travis/com/digitallinguistics/tags2dlx/master)][Travis]
 [![GitHub](https://img.shields.io/github/license/digitallinguistics/tags2dlx)][license]
+[![DOI](https://zenodo.org/badge/203644170.svg)][Zenodo]
 [![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/tags2dlx?style=social)][GitHub]
 
 _Have a question or need to report an issue? [Open an issue here.][issues]_
@@ -102,3 +103,4 @@ This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][prof
 [releases]: https://github.com/digitallinguistics/tags2dlx/releases
 [Text]:     https://format.digitallinguistics.io/schemas/Text
 [Travis]:   https://travis-ci.com/digitallinguistics/tags2dlx/branches
+[Zenodo]:   https://zenodo.org/badge/latestdoi/203644170
