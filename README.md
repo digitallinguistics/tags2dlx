@@ -1,10 +1,10 @@
 # tags2dlx
 
 [![GitHub issues](https://img.shields.io/github/issues/digitallinguistics/tags2dlx)][issues]
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/digitallinguistics/tags2dlx)][releases]
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/digitallinguistics/tags2dlx?sort=semver)][releases]
 [![Travis (.com) branch](https://img.shields.io/travis/com/digitallinguistics/tags2dlx/master)][Travis]
-![GitHub](https://img.shields.io/github/license/digitallinguistics/tags2dlx)
-![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/tags2dlx?style=social)
+[![GitHub](https://img.shields.io/github/license/digitallinguistics/tags2dlx)][license]
+[![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/tags2dlx?style=social)][GitHub]
 
 _Have a question or need to report an issue? [Open an issue here.][issues]_
 
@@ -80,6 +80,7 @@ Tests are run using [Jasmine][Jasmine]. They can be run from the command line wi
 This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][profile]) and made available under an [MIT license][license].
 
 [Daffodil]: https://format.digitallinguistics.io
+[GitHub]:   https://github.com/digitallinguistics/tags2dlx
 [issues]:   https://github.com/digitallinguistics/tags2dlx/issues
 [Jasmine]:  https://jasmine.github.io/
 [license]:  https://github.com/digitallinguistics/tags2dlx/blob/master/LICENSE.md
