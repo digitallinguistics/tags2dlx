@@ -90,7 +90,11 @@ Tests are run using [Jasmine][Jasmine]. They can be run from the command line wi
 
 <hr>
 
-This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][profile]) and made available under an [MIT license][license].
+This library is written and maintained by [Daniel W. Hieber][me] ([@dwhieb][profile]) and made available under an [MIT license][license]. Please cite this library using the following model:
+
+```
+Hieber, Daniel W. 2019. digitallinguistics/tags2dlx. https://doi.org/10.5281/zenodo.3376957
+```
 
 [Daffodil]: https://format.digitallinguistics.io
 [GitHub]:   https://github.com/digitallinguistics/tags2dlx
