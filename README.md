@@ -70,17 +70,31 @@ const output = convert(text, options);
 // Do something with the output, like write it to text.json
 ```
 
+Usage on the command line:
+
+```cmd
+tags2dlx data.txt
+```
+
 ## Options
 
 The `tags2dlx` function accepts an options hash as the second argument. The options hash accepts the following options:
 
-Option              | Default | Description
-------------------- | ------- | -----------
-metadata            | `{}`    | An object containing additional metadata to add to the Text, such as title, etc. This metadata should adhere to the [DLx Text format][Text].
-punctuation         | `,`     | Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
-tagName             | `null`  | The name of the property to store the tag in
-tagSeparator        | `_`     | The character(s) delimiting the word token from its tag
-utteranceSeparators | `.!?"'` | A string containing all the characters to treat as utterance separators
+Option                | Flag | Default | Description
+--------------------- | ---- | ------- | -----------
+`metadata`            | N/A  | `{}`    | An object containing additional metadata to add to the Text, such as title, etc. This metadata should adhere to the [DLx Text format][Text].
+`punctuation`         | `-p` | `,`     | Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
+`tagName`             | `-n` | `null`  | The name of the property to store the tag in
+`tagSeparator`        | `-s` | `_`     | The character(s) delimiting the word token from its tag
+`utteranceSeparators` | `-u` | `.!?"'` | A string containing all the characters to treat as utterance separators
+
+## Command Line
+
+The `tags2dlx` library can also be run from the command line. The script accepts one required argument, which is the path to either a file or folder to convert. If a single file is passed, that file will be converted to JSON and a new JSON file generated alongside the original. If a folder is passed, the script will recurse the directory and convert each file with a `.txt` extension to JSON, saving the new file alongside the original.
+
+The command line version supports each of the same options as the module version, with the exception of the `metadata` option. This option is not available on the command line.
+
+If this library is installed globally, you should be able to run it from the command line simply by typing `tags2dlx text.txt`. Otherwise you will need to run the script as a regular node script, using `node node_modules/@digitallinguistics/tags2dlx/tags2dlx.js text.txt`.
 
 ## Contributing
 
