@@ -1,12 +1,12 @@
 #!/usr/bin/env node --experimental-modules --no-warnings
 
-import createSpinner from 'ora';
-import fs            from 'fs';
-import meta          from './package.json';
-import path          from 'path';
-import program       from 'commander';
-import recurse       from 'recursive-readdir';
-import tags2dlx      from './src/index.js';
+import fs          from 'fs';
+import meta        from './package.json';
+import path        from 'path';
+import program     from 'commander';
+import ProgressBar from 'progress';
+import recurse     from 'recursive-readdir';
+import tags2dlx    from './src/index.js';
 
 const {
   readFile,
@@ -46,9 +46,13 @@ async function convertFiles() {
 
   if (stats.isFile()) return convertFile(pathArg);
 
-  const files = await recurse(pathArg, [ignore]);
+  const files       = await recurse(pathArg, [ignore]);
+  const progressBar = new ProgressBar(`:bar`, { total: files.length });
 
-  return Promise.all(files.map(convertFile));
+  return Promise.all(files.map(async filepath => {
+    await convertFile(filepath);
+    progressBar.tick();
+  }));
 
 }
 
@@ -56,16 +60,4 @@ function ignore(filepath, stats) {
   if (stats.isFile() && path.extname(filepath) !== `.txt`) return true;
 }
 
-void async function main() {
-
-  const spinner = createSpinner(`Converting texts`).start();
-
-  try {
-    await convertFiles();
-  } catch (e) {
-    return spinner.fail(e.message);
-  }
-
-  spinner.succeed(`Texts converted`);
-
-}();
+convertFiles().catch(console.error);
