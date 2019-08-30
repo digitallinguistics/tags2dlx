@@ -48,11 +48,12 @@ async function convertFiles() {
 
   const files       = await recurse(pathArg, [ignore]);
   const progressBar = new ProgressBar(`:bar`, { total: files.length });
+  const tasks       = files.map(filepath => () => convertFile(filepath));
 
-  return Promise.all(files.map(async filepath => {
-    await convertFile(filepath);
+  for (const runTask of tasks) {
+    await runTask(); // eslint-disable-line no-await-in-loop
     progressBar.tick();
-  }));
+  }
 
 }
 
