@@ -17,9 +17,10 @@ For example, here is an example sentence from the [Open American National Corpus
 
 ```text
 All_DT hotels_NNS accept_VBP major_JJ credit_NN cards_NNS ._.
+I_PRP guess_VBP I_PRP was_VBD in_IN a_DT wing_NN of_IN the_DT hospital_NN ._.
 ```
 
-Each word in this sentence has been tagged for part of speech by adding an underscore at the end of the word, followed by an abbreviation indicating the part of speech. For example, the word _hotels_ has been tagged as a plural noun using the abbreviation `NNS`. Punctuation is typically tagged as well (`._.` in the above example).
+Each word in this sentence has been tagged for part of speech by adding an underscore at the end of the word, followed by an abbreviation indicating the part of speech. For example, the word _hotels_ has been tagged as a plural noun using the abbreviation `NNS`. Punctuation is typically tagged as well (`._.` in the above example). The text is divided into utterances, with each new utterance starting on a new line.
 
 Using this library, you can convert tagged texts like this to JSON format, like so:
 
@@ -86,7 +87,6 @@ Option                | Flag | Default | Description
 `punctuation`         | `-p` | `,`     | Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
 `tagName`             | `-n` | `null`  | The name of the property to store the tag in
 `tagSeparator`        | `-s` | `_`     | The character(s) delimiting the word token from its tag
-`utteranceSeparators` | `-u` | `.!?"'` | A string containing all the characters to treat as utterance separators
 
 ## Command Line
 

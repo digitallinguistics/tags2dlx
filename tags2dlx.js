@@ -19,8 +19,7 @@ program
 .arguments(`<path>`)
 .option(`-n, --tagName <tagName>`, `name of the property to store the tag in`)
 .option(`-p, --punctuation <punctuation>`, `punctuation to ignore`, `,`)
-.option(`-s, --tagSeparator <separator>`, `character(s) delimiting the word token from its tag`, `_`)
-.option(`-u, --utteranceSeparators <separators>`, `string containing all the characters to treat as utterance separators`, `.!?"'`);
+.option(`-s, --tagSeparator <separator>`, `character(s) delimiting the word token from its tag`, `_`);
 
 program.parse(process.argv);
 
