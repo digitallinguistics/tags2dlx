@@ -1,15 +1,17 @@
 const path         = require(`path`);
 const { readFile } = require(`fs`).promises;
+const convert      = require(`../src/index`);
 
 describe(`tags2dlx`, function() {
 
-  let convert;
   let text;
 
-  const tinyText = `This_DEM is_COP a_DET sentence_N ._. Is_COP this_DEM a_DET question_N ?_?`;
+  const tinyText = `
+    This_DEM is_COP a_DET sentence_N ._.
+    Is_COP this_DEM a_DET question_N ?_?
+  `;
 
   beforeAll(async function() {
-    ({ default: convert } = await import(`../src/index.js`));
     text = await readFile(path.join(__dirname, `./test.txt`), `utf8`);
   });
 
@@ -81,17 +83,6 @@ describe(`tags2dlx`, function() {
       const { utterances: [{ words: [{ transcription }] }] } = convert(input, { tagSeparator });
 
       expect(transcription).toBe(`home`);
-
-    });
-
-    it(`utterance separators`, function() {
-
-      const input               = `sentence_N ._. sentence_N ?_? sentence_N !_!`;
-      const utteranceSeparators = `.!?`;
-
-      const { utterances } = convert(input, { utteranceSeparators });
-
-      expect(utterances.length).toBe(3);
 
     });
 
