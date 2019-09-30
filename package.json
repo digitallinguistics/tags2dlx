@@ -38,11 +38,11 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
-    "eslint": "^6.3.0",
-    "jasmine": "^3.4.0"
+    "eslint": "^6.5.0",
+    "jasmine": "^3.5.0"
   },
   "dependencies": {
-    "commander": "^3.0.1",
+    "commander": "^3.0.2",
     "progress": "^2.0.3",
     "recursive-readdir": "^2.2.2"
   }
