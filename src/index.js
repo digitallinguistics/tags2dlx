@@ -61,7 +61,7 @@ function createWordParser(tagSeparator, tagName) {
  * @param  {String} [options.tagSeparator=`_`]         The character(s) delimiting the word token from its tag
  * @return {Object}                                    Returns a DLx Text object
  */
-export default function tags2dlx(
+function tags2dlx(
   text = ``,
   {
     metadata     = {},
@@ -98,3 +98,5 @@ export default function tags2dlx(
   };
 
 }
+
+module.exports = tags2dlx;

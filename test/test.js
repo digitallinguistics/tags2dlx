@@ -1,9 +1,9 @@
 const path         = require(`path`);
 const { readFile } = require(`fs`).promises;
+const convert      = require(`../src/index`);
 
 describe(`tags2dlx`, function() {
 
-  let convert;
   let text;
 
   const tinyText = `
@@ -12,7 +12,6 @@ describe(`tags2dlx`, function() {
   `;
 
   beforeAll(async function() {
-    ({ default: convert } = await import(`../src/index.js`));
     text = await readFile(path.join(__dirname, `./test.txt`), `utf8`);
   });
 

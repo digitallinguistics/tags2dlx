@@ -28,13 +28,12 @@
   "publishConfig": {
     "access": "public"
   },
-  "type": "module",
   "bin": {
     "tags2dlx": "./tags2dlx.js"
   },
   "scripts": {
     "start": "npm run test",
-    "test": "node --experimental-modules --no-warnings test/index.js"
+    "test": "jasmine --config=test/jasmine.json"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
