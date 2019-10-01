@@ -81,12 +81,12 @@ tags2dlx corpora/English
 
 The `tags2dlx` function accepts an options hash as the second argument. The options hash accepts the following options:
 
-Option                | Flag | Default | Description
---------------------- | ---- | ------- | -----------
-`metadata`            | N/A  | `{}`    | An object containing additional metadata to add to the Text, such as title, etc. This metadata should adhere to the [DLx Text format][Text].
-`punctuation`         | `-p` | `,`     | Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
-`tagName`             | `-n` | `null`  | The name of the property to store the tag in
-`tagSeparator`        | `-s` | `_`     | The character(s) delimiting the word token from its tag
+Option                | Flag | Default      | Description
+--------------------- | ---- | ------------ | -----------
+`metadata`            | N/A  | `{}`         | An object containing additional metadata to add to the Text, such as title, etc. This metadata should adhere to the [DLx Text format][Text].
+`punctuation`         | `-p` | `,.!?"'‘’“”` | Punctuation to ignore. Tagged items consisting of one of these characters will be removed from the output.
+`tagName`             | `-n` | `null`       | The name of the property to store the tag in
+`tagSeparator`        | `-s` | `_`          | The character(s) delimiting the word token from its tag
 
 ## Command Line
 
