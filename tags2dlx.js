@@ -1,18 +1,17 @@
 #!/usr/bin/env node --experimental-modules --no-warnings
 
-import fs          from 'fs';
-import meta        from './package.json';
-import path        from 'path';
-import program     from 'commander';
-import ProgressBar from 'progress';
-import recurse     from 'recursive-readdir';
-import tags2dlx    from './src/index.js';
+const { meta }    = require(`./package.json`);
+const path        = require(`path`);
+const program     = require(`commander`);
+const ProgressBar = require(`progress`);
+const recurse     = require(`recursive-readdir`);
+const tags2dlx    = require(`./src/index.js`);
 
 const {
   readFile,
-  stat: getStats,
+  stats: getStats,
   writeFile,
-} = fs.promises;
+} = require(`fs`).promises;
 
 program
 .version(meta.version, `-v, --version`, `output the current version`)
