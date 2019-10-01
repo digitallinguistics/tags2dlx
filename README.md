@@ -74,7 +74,7 @@ const output = convert(text, options);
 Usage on the command line:
 
 ```cmd
-tags2dlx data.txt
+tags2dlx corpora/English
 ```
 
 ## Options
