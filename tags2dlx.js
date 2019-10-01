@@ -1,6 +1,6 @@
 #!/usr/bin/env node --experimental-modules --no-warnings
 
-const { meta }    = require(`./package.json`);
+const { version } = require(`./package.json`);
 const path        = require(`path`);
 const program     = require(`commander`);
 const ProgressBar = require(`progress`);
@@ -9,12 +9,12 @@ const tags2dlx    = require(`./src/index.js`);
 
 const {
   readFile,
-  stats: getStats,
+  stat: getStats,
   writeFile,
 } = require(`fs`).promises;
 
 program
-.version(meta.version, `-v, --version`, `output the current version`)
+.version(version, `-v, --version`, `output the current version`)
 .arguments(`<path>`)
 .option(`-n, --tagName <tagName>`, `name of the property to store the tag in`)
 .option(`-p, --punctuation <punctuation>`, `punctuation to ignore`, `,`)

@@ -1,0 +1,8597 @@
+{
+  "title": {},
+  "utterances": [
+    {
+      "words": [
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "All"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "right"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Elissa"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Adams"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Elissa"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "'ve"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "lived"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Charlotte"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "for--"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "Five"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "years"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "Five"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "years"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "OK"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "LS": true
+          },
+          "transcription": "First"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "thing"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "want"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "ask"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "if"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "any"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "books"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "as"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "child"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "either"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "books"
+        },
+        {
+          "tags": {
+            "WDT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "either"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "by"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "teacher"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "parents"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "grandparents"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "really"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "enjoying"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "Is"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "anything"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "WDT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "comes"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "mind"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "No"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Nothing"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "OK"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "How"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "did"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "but"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "how"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "come"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "with"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "mean"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "any"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "any"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "told"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "really"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "liked"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "hearing"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "growing"
+        },
+        {
+          "tags": {
+            "RP": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Not"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "can"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "no"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "OK"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "How"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "school"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Everybody"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "has"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "stuff"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "school"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "Do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "anything"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "mean"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "are"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "always"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "books"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "liked"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "always"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "had"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "everything"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "but"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "certain"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "things"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "liked"
+        },
+        {
+          "tags": {
+            "JJR": true
+          },
+          "transcription": "more"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "than"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "others"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "anything"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "liked"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "stuff"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "had"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "maybe"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "English"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "class"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "things"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Nothing"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Nothing"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "re"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "recall"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "No"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Not"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "really"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "No"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Not"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "really"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "OK"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Well"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "what"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Thanksgiving"
+        },
+        {
+          "tags": {
+            "POS": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "coming"
+        },
+        {
+          "tags": {
+            "RP": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "families"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "get"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "together"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "for"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "for"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Christmas"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "are"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "eating"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "dinner"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "talking"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "everything"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "Are"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "either"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "either"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "family"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "might"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "tell"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "things"
+        },
+        {
+          "tags": {
+            "WDT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "have"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "happened"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "past"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "Or"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "maybe"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "some"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "make"
+        },
+        {
+          "tags": {
+            "RP": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "tell"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "Are"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "any"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "family"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "tells"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "Oh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Lot"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "times"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "we"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "sit"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "around"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "reminisce"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "go"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "back"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "time"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "we"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "growing"
+        },
+        {
+          "tags": {
+            "RP": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Family"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Anything"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Well"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "one"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "those"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "WDT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "might"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "come"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "'re"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "sitting"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "around"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "reminiscing"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Well"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "lot"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "times"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "we"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "had"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "company"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "over"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "guess"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "time"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "four"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Hum"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Uh"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "my"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "mom"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "took"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "for"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "doctor"
+        },
+        {
+          "tags": {
+            "POS": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "visit"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "physical"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "The"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "doctor"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "got"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "did"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "some"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "tests"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "done"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "some"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "tests"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "He"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "dia"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "diagnosed"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "as"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "having"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "acute"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "leukemia"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "lived"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "back"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Raleigh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "And"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Momma"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "took"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "trips"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "back"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "forth"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Chapel"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Hill"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "went"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "through"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "couple"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "treatments"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "(": true
+          },
+          "transcription": "("
+        },
+        {
+          "tags": {
+            ")": true
+          },
+          "transcription": ")"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "had"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "had"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "have"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "different"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "shots"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "each"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "time"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "went"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "back"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Uh-huh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "It"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "little"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Momma"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "telling"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "on"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "way"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "little"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "things"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "really"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "let"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "think"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "guess"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "wing"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "hospital"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "where"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "five"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "six"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "other"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "children"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "whole"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "wing"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "hospital"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "well"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "wing"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "everybody"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "went"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "through"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "same"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "treatments"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Uh-huh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "And"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Uh"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "let"
+        },
+        {
+          "tags": {
+            "POS": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "see"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "Turned"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "out"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "after"
+        },
+        {
+          "tags": {
+            "PDT": true
+          },
+          "transcription": "all"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "treatments"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "done"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "only"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "survivor"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "wing"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "hospital"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Well"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "day"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "every"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "then"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "comes"
+        },
+        {
+          "tags": {
+            "RP": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "every"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "then"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "So"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "WDT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "comes"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "does"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "mom"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "primarily"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "one"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "who"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "would"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "tell"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "dad"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "Both"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "Either"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Actually"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "my"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "sister"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "wrote"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "on"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "Oh"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "really"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "And"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "have"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "back"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "my"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "room"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "It"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "one"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "those"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "things"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "think"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "want"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "hear"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "much"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "these"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "days"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "It"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "one"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "those"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "things"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "happened"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "And"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "one"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "afternoon"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "out"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "playing"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "on"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "sidewalk"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Mom"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Mom"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "kitchen"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "doing"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "something"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "guess"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "pretending"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "act"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "salesman"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "went"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "front"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "door"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "rang"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "doorbell"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "And"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Mom"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "came"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "door"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "she"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "saw"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "glow"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "light"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "all"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "around"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "as"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "if"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Lord"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "had"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "definitely"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "cured"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "leukemia"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "No"
+        },
+        {
+          "tags": {
+            "JJR": true
+          },
+          "transcription": "more"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "treatments"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "no"
+        },
+        {
+          "tags": {
+            "JJR": true
+          },
+          "transcription": "more"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "What"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "call"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Nothing"
+        },
+        {
+          "tags": {
+            "RBR": true
+          },
+          "transcription": "more"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Actually"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "went"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "back"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "see"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "my"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "doctor"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "everything"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "fine"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "Nothing"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "nothing"
+        },
+        {
+          "tags": {
+            "JJR": true
+          },
+          "transcription": "more"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "He"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "knew"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "right"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "then"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "miracle"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "miracle"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "child"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "Would"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "say"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "mom"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "dad"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "whoever"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "telling"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "tells"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "part"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "last"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "part"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "came"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "door"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "she"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "saw"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "glow"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "light"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "would"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "say"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "they"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "tell"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "part"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "JJR": true
+          },
+          "transcription": "more"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "than"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "any"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "other"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "part"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "they"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "tell"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "whole"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "thing"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "from"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "beginning"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "end"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "Beginning"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "end"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "OK"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "What"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "said"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "four"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CD": true
+          },
+          "transcription": "Four"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "And"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "'m"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "sure"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "parts"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "everything"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "mom"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "when"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "she"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "telling"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "everything"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "she"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "tells"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "some"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "some"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "pretty"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "much"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "whole"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "thing"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "The"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "whole"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "thing"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "old"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "enough"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "at"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "time"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "knew"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "what"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "going"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "on"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "Yeah"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "And"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "remember"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "exactly"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "going"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "hospital"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "waiting"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "room"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "but"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "yeah"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "something"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "anybody"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "goes"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "through"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "It"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "very"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "interesting"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "experience"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "Do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "ever"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "tell"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "yourself"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Obviously"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "'re"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "telling"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "have"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "told"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "several"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "other"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "my"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "co-workers"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "day"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "they"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "ca"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "believe"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "they"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "would"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "have"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "never"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "known"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Uh-huh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Well"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "unless"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "share"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "with"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "them"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Right"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "The"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Lord"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "helped"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "for"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "reason"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "was"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "on"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "earth"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "'ve"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "lived"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "on"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "earth"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "for"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "some"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "reason"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "what"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "yet"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um-huh"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Well"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "as"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "far"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "as"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "being"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "not"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "an"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "ordinary"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "every"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "family"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "tells"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "obviously"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "some"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "something"
+        },
+        {
+          "tags": {
+            "WDT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "comes"
+        },
+        {
+          "tags": {
+            "RP": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "lot"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "something"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "family"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "does"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "n't"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "talk"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "lot"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "something"
+        },
+        {
+          "tags": {
+            "WDT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "comes"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "on"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "pretty"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "regular"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "basis"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Maybe"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "once"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "while"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Once"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "a"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "while"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "OK"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "well"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "are"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "any"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "particular"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "related"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "this"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "anything"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "else"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "enjoy"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "reading"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "mean"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "anything"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "looking"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "at"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "what"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "experienced"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "is"
+        },
+        {
+          "tags": {
+            "EX": true
+          },
+          "transcription": "there"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "anything"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "any"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "type"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "read"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "hear"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "about"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "now"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Maybe"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "other"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "who"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "survived"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "leukemia"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "other"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "diseases"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "know"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "were"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "life"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "threatening"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "like"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "mean"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "ever"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "try"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "find"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "out"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "other"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "people"
+        },
+        {
+          "tags": {
+            "POS": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "experiences"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "?"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "do"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "enjoy"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "reading"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "the"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "um"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            "VBN": true
+          },
+          "transcription": "related"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Guideposts"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "uh"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "what"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "another"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Reader"
+        },
+        {
+          "tags": {
+            "POS": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Digest"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "they"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "come"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "(": true
+          },
+          "transcription": "("
+        },
+        {
+          "tags": {
+            ")": true
+          },
+          "transcription": ")"
+        },
+        {
+          "tags": {
+            "WRB": true
+          },
+          "transcription": "When"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "cancer"
+        },
+        {
+          "tags": {
+            "VBZ": true
+          },
+          "transcription": "comes"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "up"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "'m"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "just"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "pretty"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "pretty"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "interested"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "in"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "find"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "out"
+        },
+        {
+          "tags": {
+            "WP": true
+          },
+          "transcription": "what"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "they"
+        },
+        {
+          "tags": {
+            "VBD": true
+          },
+          "transcription": "went"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "through"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "MD": true
+          },
+          "transcription": "can"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "relate"
+        },
+        {
+          "tags": {
+            "TO": true
+          },
+          "transcription": "to"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "it"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "Other"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "than"
+        },
+        {
+          "tags": {
+            "DT": true
+          },
+          "transcription": "that"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "I"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "get"
+        },
+        {
+          "tags": {
+            "JJR": true
+          },
+          "transcription": "more"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "out"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "of"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "reading"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Reader"
+        },
+        {
+          "tags": {
+            "POS": true
+          },
+          "transcription": "'s"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Digest"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "or"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Guide"
+        },
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Guideposts"
+        },
+        {
+          "tags": {
+            "NNS": true
+          },
+          "transcription": "stories"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "NNP": true
+          },
+          "transcription": "Um"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "OK"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "Well"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "thank"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "very"
+        },
+        {
+          "tags": {
+            "RB": true
+          },
+          "transcription": "much"
+        },
+        {
+          "tags": {
+            "CC": true
+          },
+          "transcription": "and"
+        },
+        {
+          "tags": {
+            "VB": true
+          },
+          "transcription": "thank"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "for"
+        },
+        {
+          "tags": {
+            "VBG": true
+          },
+          "transcription": "sharing"
+        },
+        {
+          "tags": {
+            "PRP$": true
+          },
+          "transcription": "your"
+        },
+        {
+          "tags": {
+            "NN": true
+          },
+          "transcription": "story"
+        },
+        {
+          "tags": {
+            "IN": true
+          },
+          "transcription": "with"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "me"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "tags": {
+            "UH": true
+          },
+          "transcription": "Oh"
+        },
+        {
+          "tags": {
+            "PRP": true
+          },
+          "transcription": "you"
+        },
+        {
+          "tags": {
+            "VBP": true
+          },
+          "transcription": "'re"
+        },
+        {
+          "tags": {
+            "JJ": true
+          },
+          "transcription": "welcome"
+        },
+        {
+          "tags": {
+            ".": true
+          },
+          "transcription": "."
+        }
+      ]
+    }
+  ]
+}
